@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=llqgit&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--
 **llqgit/llqgit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
